@@ -20,3 +20,6 @@ All content that used on this application was not entirely on my own. They are f
 
 ### Contribution
 If you like this application and would also like to contribute, you can donate by using on the links provided below. 
+
+- https://ko-fi.com/skyfreak/
+- https://sociabuzz.com/cloverclub_03/donate
