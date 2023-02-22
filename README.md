@@ -1,8 +1,8 @@
 # FNovels
 Fnovels - The best Epub downloader for newest translated novels. 
 
-This app would bring you a free and easiest way to download newest translated novels from various translator.
-The source used is from various different sites that can also be found on www.novelupdates.com.
+This app would bring you a free and easiest way to download newest translated novels from various translators.
+The source used was from various different sites that can also be found on www.novelupdates.com.
 
 ## Information
 I made this app with a friendly UI. 
