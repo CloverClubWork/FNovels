@@ -25,11 +25,12 @@ If you like this application and would also like to contribute, you can donate b
 - https://sociabuzz.com/cloverclub_03/donate
 
 ### Screenshots
-![Screenshot_20230222_132444](https://user-images.githubusercontent.com/114269541/220540209-1abc8678-ceed-4ee4-b385-c166f1477ded.jpg)
-![Screenshot_20230222_132455](https://user-images.githubusercontent.com/114269541/220540219-23fd5e63-069b-4e19-b256-77f5298a67a7.jpg)
-![Screenshot_20230222_132501](https://user-images.githubusercontent.com/114269541/220540222-73580a38-c9b2-47b3-b034-441700f4ec7e.jpg)
-![Screenshot_20230222_132544](https://user-images.githubusercontent.com/114269541/220540228-24c87f36-df00-4fb0-92a1-70702cd99d0f.jpg)
-![Screenshot_20230222_135834](https://user-images.githubusercontent.com/114269541/220540232-800fba36-2150-4766-96b2-4ec61cb9ab4c.jpg)
-![Screenshot_20230222_135849](https://user-images.githubusercontent.com/114269541/220540240-5a9c60c1-5ed1-4849-b9a7-e52034fa6e4e.jpg)
-![Screenshot_20230222_135852](https://user-images.githubusercontent.com/114269541/220540244-c7174fce-29dd-4033-975b-faf9e99b40a9.jpg)
-![Screenshot_20230222_135909](https://user-images.githubusercontent.com/114269541/220540255-fac43189-1528-4882-bab7-1f6cd7bad784.jpg)
+![FB_IMG_16780805688920817](https://user-images.githubusercontent.com/114269541/223026552-b7e8ead2-ab5d-43c4-93fc-aca59a9cfbc6.jpg)
+![FB_IMG_16780805547792988](https://user-images.githubusercontent.com/114269541/223026581-1d2eced7-b6cb-4b41-9a33-d1145c6eca09.jpg)
+![FB_IMG_16780805477740109](https://user-images.githubusercontent.com/114269541/223026591-d196554a-a85d-4965-a5b7-214f36c43c5c.jpg)
+![FB_IMG_16780805882817393](https://user-images.githubusercontent.com/114269541/223026608-1e8720a7-5a1c-4ba7-bccc-64d3ca75f40e.jpg)
+![FB_IMG_16780805307472156](https://user-images.githubusercontent.com/114269541/223026621-904e4d51-f420-4fdc-ae28-c510033acce3.jpg)
+![FB_IMG_16780805391616880](https://user-images.githubusercontent.com/114269541/223026632-e524127e-bbfa-456d-a143-a103db6cd302.jpg)
+![FB_IMG_16780805620809583](https://user-images.githubusercontent.com/114269541/223026661-8a48c4f2-aa62-49f5-b470-4c2639430c8d.jpg)
+![FB_IMG_16780805755212680](https://user-images.githubusercontent.com/114269541/223026711-49b5b7a7-d3db-4b9f-875b-f9eeca20cfb7.jpg)
+![FB_IMG_16780805828251971](https://user-images.githubusercontent.com/114269541/223026736-424ad88f-419d-4328-bb44-653c321f0f7f.jpg)
